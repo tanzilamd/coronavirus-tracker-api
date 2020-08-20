@@ -10,6 +10,7 @@ Available commands
   invoke check
 """
 import random
+import sqlite3
 
 import invoke
 
